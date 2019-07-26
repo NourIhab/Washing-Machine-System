@@ -1,0 +1,2 @@
+# Washing-Machine-System
+Real time system for washing machine, the system is composed of several components, each serving a different purpose by using Esper to allow the runtime to process events at the speed of arrival for most applications applications. As real-time programs must guarantee response within specified time constraints, often referred to as "deadlines" and  applying MVC design patterns.
